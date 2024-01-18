@@ -71,6 +71,6 @@ fun From(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     HelloINF2007Theme {
-        Greeting("Yirui")
+        Greeting("Elon Musk")
     }
 }
